@@ -16,6 +16,7 @@
 - The validation accuracy is nearly +90%.
 - model accuracy has improved, the class rebalance has helped treat the overfitting and improve the accrucy drastically also the extra layers are one of the big factor for this improvement.
 - Much better models could be built or tried out using more epochs and more layers.
+- also if we incresses the data size by increse the augumanted images sample size then also there is a chance to improve in result.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
